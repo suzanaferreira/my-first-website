@@ -2,12 +2,5 @@
  
  Welcome!
  
-## This is a h2
-
-### This is a h3
-
-#### This is a h4
-
-##### This is a h5
-
-###### This is a h6
+##Site developed to display headers with access to websites regarding to coding 
+such as CSS, HTMl...
